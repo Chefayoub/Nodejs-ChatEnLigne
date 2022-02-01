@@ -1,0 +1,15 @@
+--Pour initialiser
+
+npm init
+npm i socket.io
+npm i --save-dev nodemon (npm i nodemon)
+
+
+--Apres avoir ajouter dans package.json
+
+npm run devStart
+
+
+--Pour demarrer le serveur
+
+nodemon server.js
